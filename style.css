@@ -1,0 +1,27 @@
+h1 {
+    background-color: sienna;
+    width: 1000px;
+}
+#piclineone {
+    display: inline-block;
+}
+h2 {
+    background-color: slategray;
+    width: 1000px;
+}
+#piclinetwo {
+    display: inline-block;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+h3 {
+    background-color: springgreen;
+    width: 1000px;
+}
+#piclinethree {
+    display: inline-block;
+}
+* {
+    padding: 10px;
+}
